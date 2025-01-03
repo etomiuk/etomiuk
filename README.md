@@ -1,5 +1,9 @@
-## Hi there 👋
+## ✨ Hi there, I'm Emma ✨
 
+- 🏫 I am an incoming Computer Science Masters student at McGill and graduate of the Honours Cognitive Science program.
+- 🧠 I enjoy learning how brains work, how machines work, how learning works, and how brains and machines can learn and how we can learn about brains and machines. 
+- 🎼 I also enjoy music and arts and how tech and CS can expand our creativity in artistic fields. 
+- 🌱 I am currently learning full-stack web development. Feel free to check out my personal website!
 <!--
 **etomiuk/etomiuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
